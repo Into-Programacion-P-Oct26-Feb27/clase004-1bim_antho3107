@@ -45,3 +45,7 @@ public class Ejemplo2 {
     }
     
 }
+
+/*EL nextLine es utilizado para vaciar el scanner y vuelva a tomar datos que
+*le siguen a continuacion
+*/

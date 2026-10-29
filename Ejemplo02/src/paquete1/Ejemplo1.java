@@ -1,6 +1,6 @@
 /*
  * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
+ * To change this template file, choose Tools | TemplatesIn
  * and open the template in the editor.
  */
 package paquete1;
@@ -30,6 +30,7 @@ public class Ejemplo1 {
         nombreAsignatura1 = entrada.nextLine();
         System.out.println("Ingrese nota de asignatura 1");
         notaAsignatura1 = entrada.nextDouble();
+        entrada.nextLine();
         System.out.println("Ingrese nombre de asignatura 2");
         nombreAsignatura2 = entrada.nextLine();
         System.out.println("Ingrese nota de asignatura 2");
