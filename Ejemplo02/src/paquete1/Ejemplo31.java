@@ -45,7 +45,8 @@ public class Ejemplo31 {
         ciudad = entrada.nextLine();
         System.out.println("Ingrese el anio de naciemiento");
         anioNacimiento = entrada.nextInt();
-        
+        //Se necesita ingresar la ciudad de nacimiento entrada.nextLine()
+        //Se necesita ingresar el año de nacimiento entrada.nextInt()
         
         edad= 2026 - anioNacimiento;
         
